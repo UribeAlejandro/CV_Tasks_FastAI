@@ -1,1 +1,3 @@
-# CV_Tasks_FastAI
+# Computer Vision Tasks with FastAI
+
+
